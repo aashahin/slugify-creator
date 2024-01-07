@@ -1,0 +1,25 @@
+{
+  "name": "slugify-creator",
+  "version": "0.0.6",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashahin/slugify-creator.git"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "slugi"
+  ],
+  "author": "Abdelrahman Shaheen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aashahin/slugify-creator/issues"
+  },
+  "homepage": "https://github.com/aashahin/slugify-creator#readme"
+}
