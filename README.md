@@ -15,11 +15,11 @@ npm install slugify-creator
 ## Usage
 
 ```javascript
-import slugify-creator from "slugify-creator";
+import slugify from "slugify-creator";
 
 const str = "Hello World أهلا بالعالم";
 
-slugi(str); // hello-world-أهلا-بالعالم
+slugify(str); // hello-world-أهلا-بالعالم
 ```
 
 ## Contributing

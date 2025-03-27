@@ -1,4 +1,4 @@
-const slugify = (text: string, mark: string) => {
+const slugify = (text: string, mark = "-") => {
   const removeDiacritics = (s: string) =>
     (s as any).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
